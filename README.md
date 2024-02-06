@@ -1,4 +1,4 @@
-# Biblioteca `python-filter`
+# python-filter
 
 A biblioteca `python-filter` oferece classes para trabalhar com listas de forma conveniente e eficiente.
 
